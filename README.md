@@ -1,4 +1,6 @@
 # [Omeans Team](https://omeansteam.github.io/)
+Pastikan membaca perjanjian pengguna([EULA](https://github.com/omeansteam/EULA)) sebelum clone repo ini.
+Dan membaca aturan-aturan pada [link](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik#legal) di bawah
 
 ## Philosophy
 
