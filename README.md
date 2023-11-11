@@ -2,7 +2,13 @@
 Pastikan membaca perjanjian pengguna([EULA](https://github.com/omeansteam/EULA)) sebelum clone repo ini.
 Dan membaca aturan-aturan pada [link](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik#legal) di bawah
 
-## Philosophy
+## Result
+
+Login
+[![Result 1](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik/blob/main/readme/1.PNG)](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik/blob/main/readme/1.PNG)
+
+Admin
+[![Result 2](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik/blob/main/readme/2.PNG)](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik/blob/main/readme/2.PNG)
 
 ## Getting Started
 
