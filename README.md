@@ -1,15 +1,67 @@
-# [Omeans Team](https://omeansteam.github.io/)
-Pastikan membaca perjanjian pengguna([EULA](https://github.com/omeansteam/EULA)) sebelum clone repo ini.
+# Introduction
 
-Dan membaca aturan-aturan pada [link](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik/blob/main/README.md#legal) di bawah
+A comprehensive system information clinic application portfolio, designed to streamline clinic operations and improve patient care. This application provides a user-friendly interface for easy management of clinic information systems, with features such as role-based access control, system configuration, and more.
 
-## Result
+## Features
 
-Login
-[![Result 1](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik/blob/main/readme/1.PNG)](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik/blob/main/readme/1.PNG)
+1. Patient Management
 
-Admin
-[![Result 2](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik/blob/main/readme/2.PNG)](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik/blob/main/readme/2.PNG)
+    * Patient data input
+    * Patient data search and management
+    * Patient visit history
+
+2. Doctor Management
+
+    * Doctor data input
+    * Doctor data search and management
+    * Doctor practice schedule
+
+3. Medication Management
+
+    * Medication data input
+    * Medication data search and management
+    * Medication stock management
+
+4. Visit Management
+
+    * Patient visit data input
+    * Patient visit data search and management
+    * Patient visit history
+
+5. Medical Record Management
+
+    * Patient medical record data input
+    * Patient medical record data search and management
+    * Patient medical record history
+
+6. Reporting and Statistics
+
+    * Patient visit reports
+    * Medication stock reports
+    * Patient visit statistics
+
+7. Security and Access
+
+    * Role-based access control (admin, doctor, nurse, etc.)
+    * Data encryption for security
+
+8. System Configuration
+
+    * System application settings
+    * Application parameter settings
+
+and many more features that can help streamline clinic operations and improve patient care.
+
+## Technologies Used
+
+* PHP Native
+ 
+## Screenshots
+
+<div>
+    <img src="readme/1.PNG" width="50%"></img> 
+    <img src="readme/2.PNG" width="50%"></img>
+</div>
 
 ## Getting Started
 
@@ -21,33 +73,9 @@ Admin
 ## More Project
 * [My Portfolio](https://github.com/topics/portfolio-aris-hadisopiyan)
 
+## Contributing
 
-## Need help?
-
-<!-- If you don't find the answer to your problem in our [docs](https://jekyllrb.com/docs/), or in the [troubleshooting section](https://jekyllrb.com/docs/troubleshooting/), ask the [community](https://jekyllrb.com/docs/community/) for help. -->
-
-## Code of Conduct
-
-## Credits
-
-### Sponsors
-
-### Contributors
-
-### Backers
-
+If you're interested in contributing to Rental Mobil New, please see our [contributing guide](CONTRIBUTING.md).
 ## License
 
 See the [LICENSE](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik/blob/main/LICENSE) file.
-
-## Legal
-
-* © 2023 GitHub, Inc.
-* [Terms]
-* [Privacy]
-* [Guidelines](https://github.com/omeansteam/guidelines)
-* [Status]
-* [Pricing]
-* [Expert services]()
-* [Blog]
-* [About]
