@@ -71,7 +71,7 @@ and many more features that can help streamline clinic operations and improve pa
 * [Import this file into database](https://github.com/omeansteam/porto_aplikasi_sistem_informasi_klinik/blob/main/assets/database/aplikasi_sistem_informasi_klinik.sql) "aplikasi_sistem_informasi_klinik"
 
 ## More Project
-* [My Portfolio](https://github.com/topics/portfolio-aris-hadisopiyan)
+* [My Portfolio](https://github.com/topics/portfolio-arishadisopiyan)
 
 ## Contributing
 
